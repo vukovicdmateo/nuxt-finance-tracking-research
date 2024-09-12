@@ -17,7 +17,6 @@
     transactions: Array
   })
 
-  console.log(props)
   const sum = computed(() => {
     let sum = 0
     for (const transaction of props.transactions) {
