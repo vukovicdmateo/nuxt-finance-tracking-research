@@ -13,6 +13,7 @@
     "@nuxt/ui": "^2.18.4",
     "@nuxtjs/supabase": "^1.4.0",
     "nuxt": "^3.13.0",
-    "vue": "latest"
+    "vue": "latest",
+    "zod": "^3.22.2"
   }
 }
